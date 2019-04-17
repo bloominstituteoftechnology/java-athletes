@@ -11,22 +11,22 @@ Take the tightly coupled athletes project and covert it to a more loosely couple
 # Instructions
 
 In the java-athletes projects, the initial package is highly, tightly coupled. This makes for difficult modifications and enhancement to the package. Under the solution package, rewrite the code using interface injections. You are already given the Main class for the solution package. The Main class CANNOT be changed. The solutions output will look like
-'************
-Track Runner
-************
+`************`  
+`Track Runner`  
+`************`  
 
-************
-Hockey Goalie
-************
+`************`  
+`Hockey Goalie`  
+`************`  
 
-************
-Rugby Athlete
-************
+`************`  
+`Rugby Athlete`  
+`************`  
 
-************
-Baseball Athlete
-************
-`
+`************`  
+`Baseball Athlete`  
+`************`  
+
 
 ## Stretch Goal
 
