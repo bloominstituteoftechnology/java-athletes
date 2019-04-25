@@ -12,7 +12,8 @@ public class MyAthlete implements Processor
 	@Override
 	public void displayAthlete(String athlete)
 	{
-		athlete = "*********\n" + athlete + " Athlete\n**********\n";
+		//rules of every athlete
+		athlete = "*********\n" + athlete + " \n**********\n";
 		athleteSrv.displayAthlete(athlete);
 	}
 }
