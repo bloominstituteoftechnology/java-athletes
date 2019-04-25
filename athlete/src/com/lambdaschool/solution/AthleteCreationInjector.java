@@ -1,6 +1,6 @@
 package com.lambdaschool.solution;
 
-public interface AthleteServiceInjector
+public interface AthleteCreationInjector
 {
 	public Processor getProcess();
 }
