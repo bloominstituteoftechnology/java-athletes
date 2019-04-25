@@ -19,14 +19,14 @@ public class Main
 //
 //
 //        // Create a Rugby Athlete
-//        injector = new RugbyAthleteCreationInjector();
-//        app = injector.getProcess();
-//        app.displayAthlete();
+        injector = new RugbyAthleteCreationInjector();
+        app = injector.getProcess();
+        app.displayAthlete("Rugby Athlete");
 //
 //        // Create a Baseball Athlete
-//        injector = new BaseballAthleteCreationInjector();
-//        app = injector.getProcess();
-//        app.displayAthlete();
+        injector = new BaseballAthleteCreationInjector();
+        app = injector.getProcess();
+        app.displayAthlete("Baseball Athlete");
 
     }
 }

@@ -13,7 +13,7 @@ public class MyAthlete implements Processor
 	public void displayAthlete(String athlete)
 	{
 		//rules of every athlete
-		athlete = "*********\n" + athlete + " \n**********\n";
+		athlete = "*********\n" + athlete + " \n*********\n";
 		athleteSrv.displayAthlete(athlete);
 	}
 }
