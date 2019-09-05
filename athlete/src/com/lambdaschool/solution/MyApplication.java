@@ -2,15 +2,17 @@ package com.lambdaschool.solution;
 
 public class MyApplication implements Processor
 {
-    private AthleteCreationInjector athlete;
+    private AthleteService athleteService;
 
-    public MyApplication(AthleteCreationInjector athlete)
+    public MyApplication(AthleteService athleteService)
     {
-        this.athlete = athlete;
+        this.athleteService = athleteService;
     }
 
     @Override
-    public void displayAthlete() {
-        displayAthlete();
+    public void displayAthlete(String athlete)
+    {
+        athlete = athlete;
+        athleteService.displayAthlete(athlete);
     }
 }

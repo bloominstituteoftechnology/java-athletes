@@ -2,5 +2,5 @@ package com.lambdaschool.solution;
 
 public interface Processor
 {
-    void displayAthlete();
+    void displayAthlete(String athlete);
 }

@@ -1,6 +1,5 @@
 package com.lambdaschool.solution;
 
-import com.lambdaschool.initial.MyApplication;
 
 public class HockeyAthleteCreationInjector implements AthleteCreationInjector
 {
