@@ -9,5 +9,7 @@ public class Main
         myAthlete.create("Track");
         myAthlete.create("Hockey");
         myAthlete.create("Rugby");
+
+        System.out.println("Test");
     }
 }
