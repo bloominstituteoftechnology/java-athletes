@@ -4,11 +4,11 @@ A student that completes this project shows that they can:
 
 * Learn to use and implement dependencies, dependency injections, and Java libraries
 
-# Introduction
+## Introduction
 
 Take the tightly coupled athletes project and covert it to a more loosely coupled project using interface injections. So go from a rigid program that creates athletes to one of flexibility.
 
-# Instructions
+## Instructions
 
 In the java-athletes projects, the initial package is highly, tightly coupled. This makes for difficult modifications and enhancement to the package. Under the solution package, rewrite the code using interface injections. You are already given the Main class for the solution package. The Main class CANNOT be changed. The solutions output will look like
 `************`  
@@ -26,7 +26,6 @@ In the java-athletes projects, the initial package is highly, tightly coupled. T
 `************`  
 `Baseball Athlete`  
 `************`  
-
 
 ## Stretch Goal
 
